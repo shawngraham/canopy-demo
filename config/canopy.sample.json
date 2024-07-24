@@ -8,7 +8,7 @@
   "metadata": ["Date", "Subject"],
   "label": { "none": ["Collection Title"] },
   "summary": {
-    "none": ["Brief description of the site and its contents."]
+    "none": ["Brief description of the SITE and its contents."]
   },
   "theme": {
     "defaultTheme": "light",
