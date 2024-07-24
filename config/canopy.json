@@ -1,0 +1,20 @@
+{
+  "collection": "https://shawngraham.github.io/tropy-test/index.json",
+  "devCollection": "https://shawngraham.github.io/tropy-test/index.json",
+  "featured": [
+    "https://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/manifest.json"
+    
+  ],
+  "metadata": ["Date", "Subject"],
+  "label": { "none": ["Collection Title"] },
+  "summary": {
+    "none": ["Brief description of the site and its contents."]
+  },
+  "theme": {
+    "defaultTheme": "light",
+    "accentColor": "red",
+    "grayColor": "mauve",
+    "radius": "small",
+    "scaling": "100%"
+  }
+}
