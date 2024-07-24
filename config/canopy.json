@@ -5,7 +5,7 @@
     "https://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/manifest.json"
     
   ],
-  "metadata": ["Date", "Subject"],
+  "metadata": ["Date", "Type"],
   "label": { "none": ["Collection Title"] },
   "summary": {
     "none": ["Brief description of the site and its contents."]
