@@ -21,6 +21,7 @@ class CanopyDocument extends Document {
       <Html>
         <Head>
           <GoogleFontImport />
+          <script src="https://hypothes.is/embed.js" async></script>
         </Head>
         <body>
           <Main />
