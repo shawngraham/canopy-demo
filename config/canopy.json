@@ -6,13 +6,13 @@
     
   ],
   "metadata": ["Date", "Type"],
-  "label": { "none": ["Collection Title"] },
+  "label": { "none": ["SMG Faffin' On The Interwebs - Again"] },
   "summary": {
-    "none": ["Brief description of the site and its contents."]
+    "none": ["Just testing stuff out."]
   },
   "theme": {
     "defaultTheme": "light",
-    "accentColor": "red",
+    "accentColor": "blue",
     "grayColor": "mauve",
     "radius": "small",
     "scaling": "100%"
