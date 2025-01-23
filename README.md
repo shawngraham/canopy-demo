@@ -3,6 +3,7 @@
 An open-source static site generator designed for fast creation, contextualization, and customization of a discovery-focused digital scholarship and collections website using [IIIF](https://iiif.io/) APIs.
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/fork/github/canopy-iiif/canopy-iiif)
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/shawngraham/canopy-demo/blob/6f9a238cb07bc85bfbb053069c460a0f2c44c083/README.md)
 
 - [Demo (Static)](https://canopy-iiif.github.io/canopy-iiif/)
 - [Documentation](https://canopy-iiif.github.io/docs/)
