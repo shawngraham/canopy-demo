@@ -4,6 +4,8 @@ An open-source static site generator designed for fast creation, contextualizati
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/fork/github/canopy-iiif/canopy-iiif)
 
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/shawngraham/canopy-demo)
+
 - [Demo (Static)](https://canopy-iiif.github.io/canopy-iiif/)
 - [Documentation](https://canopy-iiif.github.io/docs/)
 
